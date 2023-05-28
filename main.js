@@ -1,6 +1,6 @@
-musik = "";
+musik = "sound.mp3";
     foto = "img1.gif";
-    background = "";
+    background = "download1.jpg";
     noWhatsapp = "081574808331";
 
     async function popUp() {
